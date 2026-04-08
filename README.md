@@ -16,7 +16,7 @@
 
 ---
 
-I'm a Computer Science student passionate about NLP, toxicity detection, and scalable backend systems. I focus on responsible AI and production-grade solutions that make a real impact — building things that are not just powerful, but thoughtful.
+I'm a Computer Science student and tech enthusiast passionate about NLP, toxicity detection, and scalable backend systems. I focus on responsible AI and production-grade solutions that make a real impact — building things that are not just powerful, but thoughtful.
 
 ---
 
@@ -45,6 +45,19 @@ I'm a Computer Science student passionate about NLP, toxicity detection, and sca
 - NLP pipelines and toxicity detection systems for responsible content moderation
 - Scalable REST APIs and microservices with Python and Flask
 - Full-stack applications with React, TypeScript, and modern tooling
+
+---
+
+## 📌 Featured Projects
+
+**Career Path Predictor** — AI-powered career guidance platform using Random Forest with 91%+ accuracy  
+[Repository](https://github.com/SyedAshraf49/Carrer-Path-Predictor-FI)
+
+**HateShield AI** — Production-grade content moderation platform for text and image analysis  
+[Repository](https://github.com/SyedAshraf49/HateSheildAI-V3)
+
+**Interactive Portfolio** — Modern, responsive portfolio built with React and TypeScript  
+[Live Demo](https://ashraf-portfolio49.vercel.app) | [Repository](https://github.com/SyedAshraf49/Portfolio)
 
 ---
 
