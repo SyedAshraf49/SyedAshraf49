@@ -1,6 +1,6 @@
 ![Background](./background.jpg)
 
-# Hi, I'm Syed Ashraf
+#                                                      Hi, I'm Syed Ashraf
 
 **A Developer in the Making | Exploring AI, ML & Backend Systems**
 
