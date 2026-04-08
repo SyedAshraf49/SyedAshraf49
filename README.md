@@ -16,7 +16,7 @@
 
 ---
 
-I'm a Computer Science student and tech enthusiast passionate about NLP, toxicity detection, and scalable backend systems. I focus on responsible AI and production-grade solutions that make a real impact — building things that are not just powerful, but thoughtful.
+I'm a Computer Science student and tech enthusiast passionate about NLP, toxicity detection, and scalable backend systems. I focus on responsible AI and production-grade solutions that make a real impact on building things that are not just powerful, but thoughtful.
 
 ---
 
