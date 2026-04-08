@@ -1,88 +1,181 @@
+![Background](./background.jpg)
+
+# 👋 Hi, I'm Syed Ashraf
+
+**A Developer in the Making | Exploring AI, ML & Backend Systems**
+
 <div align="center">
 
-# 👋 Hey, I'm Syed Ashraf S.N
-
-### 🎓 Educator & Developer · St. Thomas College of Arts and Science, Chennai
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Data+Analytics+Enthusiast;Python+%7C+TypeScript+%7C+SQL;Building+things+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=internet-explorer)](https://ashraf-portfolio49.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/SyedAshraf49)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:galladeashraf@gmail.com)
 
 </div>
 
 ---
 
-## 📊 GitHub Metrics
+## 🎯 About Me
 
-<div align="center">
+I'm a **Computer Science Student** passionate about building intelligent systems that make a real impact. My work spans across **AI/ML safety, backend engineering, and full-stack development**. I'm driven by curiosity and love solving complex problems through code.
 
-![GitHub Metrics](github-metrics.svg)
+**Currently:** Open to **internships and collaborations** in machine learning, AI safety, and backend systems engineering.
 
-</div>
+📄 [**Download My Resume**](https://github.com/SyedAshraf49/Portfolio/blob/main/public/resume/asher-resume.pdf)
 
 ---
 
-## 🚀 Tech Stack
+## 💡 What I Do
+
+### 🧠 AI/ML & Safety
+- Natural Language Processing (NLP) & Toxicity Detection
+- Content Moderation & Sentiment Analysis
+- Responsible AI Development
+- Model Fine-tuning & Optimization
+
+### 🔧 Backend Development
+- Python, Flask, RESTful APIs
+- Microservices Architecture
+- Robust Data Pipelines
+- System Design & Optimization
+
+### 🎨 Frontend Development
+- React 18 & TypeScript
+- Responsive Web Design
+- Modern CSS & Tailwind
+- Beautiful UI/UX Implementation
+
+### ⚙️ DevOps & Systems
+- CLI Design & Implementation
+- Deployment & Monitoring
+- System Automation
+- End-to-End Testing
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
+### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### ML & Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Frontend & Styling
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
 ---
 
-## 📈 Stats
+## 🚀 Featured Projects
+
+### 1. **Career Path Predictor** 🎯
+*AI-powered career guidance platform leveraging machine learning*
+
+- **Tech:** Python, Flask, Random Forest, Scikit-Learn, HTML/CSS/JavaScript
+- **Features:**
+  - 🤖 AI-powered career predictions with 91%+ accuracy
+  - 📊 Data-driven insights on salary, growth, and market trends
+  - 🎓 Personalized learning paths and roadmaps
+  - 🌊 Beautiful Dark & Sea Breeze themed UI
+  - 📱 Fully responsive across all devices
+
+📍 [View Repository](https://github.com/SyedAshraf49/Carrer-Path-Predictor-FI)
+
+---
+
+### 2. **HateShield AI** 🛡️
+*Production-grade AI content moderation & audience intelligence platform*
+
+- **Tech:** Python, Flask, Transformers, PyTorch, Deep Learning
+- **Features:**
+  - 🔤 Advanced text analysis & toxicity detection
+  - 🖼️ Visual content moderation
+  - 👥 Audience sentiment analysis
+  - 📊 Pre-publication risk scoring
+  - ⚡ Real-time JSON APIs
+
+📍 [View Repository](https://github.com/SyedAshraf49/HateSheildAI-V3)
+
+---
+
+### 3. **Interactive Portfolio** 💼
+*Modern, responsive portfolio showcasing projects and skills*
+
+- **Tech:** React 18, TypeScript, Tailwind CSS, Vite, Framer Motion
+- **Features:**
+  - 🎨 Beautiful cosmic-themed design
+  - ⚡ Fast performance with Vite
+  - 🎭 Smooth animations & transitions
+  - 📱 Fully responsive
+  - 🔗 Social links integration
+
+📍 [Live Demo](https://ashraf-portfolio49.vercel.app/) | [Repository](https://github.com/SyedAshraf49/Portfolio)
+
+---
+
+## 📊 Skills Breakdown
+
+| Category | Skills |
+|----------|--------|
+| **Machine Learning** | NLP, Toxicity Detection, Sentiment Analysis, Computer Vision, Model Fine-tuning |
+| **Backend** | Python, Flask, RESTful APIs, Microservices, Database Design, System Optimization |
+| **Frontend** | React, TypeScript, Responsive Design, Tailwind CSS, Framer Motion |
+| **DevOps** | Git, GitHub, CLI Design, Deployment, Testing, Documentation |
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SyedAshraf49&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedAshraf49&theme=tokyonight&hide_border=true" height="165" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyedAshraf49&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAshraf49&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAshraf49&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
 ---
 
-## 🏆 Trophies
+## 🌐 Let's Connect
+
+I'm always interested in talking about **AI safety**, **backend systems**, and **web development**. Feel free to reach out!
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SyedAshraf49&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+📧 **Email:** [galladeashraf@gmail.com](mailto:galladeashraf@gmail.com)
 
-</div>
+🐙 **GitHub:** [@SyedAshraf49](https://github.com/SyedAshraf49)
 
----
-
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🌐 [Portfolio](https://github.com/SyedAshraf49/Portfolio) | Personal portfolio showcasing projects & skills | TypeScript |
-
----
-
-## 📬 Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyedAshraf49)
+🌍 **Portfolio:** [ashraf-portfolio49.vercel.app](https://ashraf-portfolio49.vercel.app/)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SyedAshraf49&color=22d3ee&style=flat-square&label=Profile+Views" />
+
+**Made with ❤️ by Syed Ashraf**
+
+*Building intelligent systems, one line of code at a time.*
+
+<img src="https://komarev.com/ghpvc/?username=SyedAshraf49&color=22d3ee&style=flat-square&label=Profile+Views" />
+
 </div>
