@@ -48,16 +48,6 @@ I'm a Computer Science student passionate about NLP, toxicity detection, and sca
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SyedAshraf49&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" width="480"/>
-
-</div>
-
----
-
 <div align="center">
 
 *Open to internships in ML, AI safety, and backend engineering*
