@@ -2,7 +2,7 @@
 
 <h1>Syed Ashraf S.N</h1>
 
-<p><strong>Software Developer &nbsp;·&nbsp; Full-Stack &nbsp;·&nbsp; AI/ML</strong><br/>
+<p><strong>Software Developer &nbsp;·&nbsp; Full-Stack &nbsp;·&nbsp; Tech Enthusiast</strong><br/>
 B.Sc Computer Science &nbsp;·&nbsp; St. Thomas College of Arts and Science, Chennai</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=22d3ee&height=80&section=header&fontSize=0" width="100%"/>
@@ -82,8 +82,8 @@ B.Sc Computer Science &nbsp;·&nbsp; St. Thomas College of Arts and Science, Che
 
 | &nbsp; | Project | Description | Stack | Links |
 |:------:|---------|-------------|-------|:-----:|
-| 🛡️ | **Hate Shield AI** | Full-stack AI content moderation platform with 4-class toxicity detection, multi-label emotion analysis, and image/text support | Flask · scikit-learn · HuggingFace · HTML/JS | <a href="https://github.com/SyedAshraf49/HateSheildAI-V3"><img src="https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://hatesheildai-v3.onrender.com"><img src="https://img.shields.io/badge/-Live-46E3B7?style=flat-square&logo=render&logoColor=black"/></a> |
-| 🎯 | **Career Path Predictor** | Multi-model ML pipeline combining MBTI personality + work values data to generate ranked career recommendations with downloadable PDF reports | Flask · scikit-learn · Python · pandas | <a href="https://github.com/SyedAshraf49/Carrer-Path-Predictor-FI"><img src="https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://carrer-path-predictor-fi.onrender.com"><img src="https://img.shields.io/badge/-Live-46E3B7?style=flat-square&logo=render&logoColor=black"/></a> |
+| 🛡️ | **Hate Shield AI** | Full-stack AI content moderation platform with 4-class toxicity detection, multi-label emotion analysis, and image/text support | Flask · scikit-learn · HuggingFace · HTML/JS | <a href="https://github.com/SyedAshraf49/HateShieldAI-V3"><img src="https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://hateshieldai-v3.onrender.com"><img src="https://img.shields.io/badge/-Live-46E3B7?style=flat-square&logo=render&logoColor=black"/></a> |
+| 🎯 | **Career Path Predictor** | Multi-model ML pipeline combining MBTI personality + work values data to generate ranked career recommendations with downloadable PDF reports | Flask · scikit-learn · Python · pandas | <a href="https://github.com/SyedAshraf49/Career-Path-Predictor-FI"><img src="https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://career-path-predictor-fi.onrender.com"><img src="https://img.shields.io/badge/-Live-46E3B7?style=flat-square&logo=render&logoColor=black"/></a> |
 | 🗂️ | **Staff Management Dashboard** | Internal dashboard for Chennai Metro Rail Limited (200+ employees) with RBAC, optimized data retrieval, and secure authentication | Python · Flask · SQL · HTML/CSS | 🏢 Internal |
 
 </div>
