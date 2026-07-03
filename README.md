@@ -5,7 +5,7 @@
 <p><strong>Software Developer &nbsp;·&nbsp; Full-Stack &nbsp;·&nbsp; Tech Enthusiast</strong><br/>
 B.Sc Computer Science &nbsp;·&nbsp; St. Thomas College of Arts and Science, Chennai</p>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=22d3ee&height=80&section=header&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=22d3ee&height=80&section=header&fontSize=0" width="100%"/>
 
 <br/>
 
@@ -145,5 +145,5 @@ B.Sc Computer Science &nbsp;·&nbsp; St. Thomas College of Arts and Science, Che
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=22d3ee&height=80&section=footer&fontSize=0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=22d3ee&height=80&section=footer&fontSize=0" width="100%"/>
 </div>
