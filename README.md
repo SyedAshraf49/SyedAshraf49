@@ -2,8 +2,7 @@
 
 <h1>Syed Ashraf S.N</h1>
 
-<p><strong>Software Developer &nbsp;·&nbsp; Full-Stack &nbsp;·&nbsp; Tech Enthusiast</strong><br/>
-B.Sc Computer Science &nbsp;·&nbsp; St. Thomas College of Arts and Science, Chennai</p>
+<p><strong>Software Developer &nbsp;·&nbsp; Full-Stack &nbsp;·&nbsp; Tech Enthusiast</strong></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=22d3ee&height=80&section=header&fontSize=0" width="100%"/>
 
