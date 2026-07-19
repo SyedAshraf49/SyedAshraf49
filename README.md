@@ -79,11 +79,40 @@
 
 <div align="center">
 
-| &nbsp; | Project | Description | Stack | Links |
-|:------:|---------|-------------|-------|:-----:|
-| 🛡️ | **Hate Shield AI** | Full-stack AI content moderation platform with 4-class toxicity detection, multi-label emotion analysis, and image/text support | Python · Flask · Flask-CORS · scikit-learn · Joblib · Pillow · Transformers · PyTorch · HTML5 · CSS3 · JavaScript | [📂 Code](https://github.com/SyedAshraf49/HateSheildAI-V3) · [🌐 Live](https://hatesheildai-v3.onrender.com) |
-| `>_` | **Career Path Predictor** | Multi-model ML pipeline combining MBTI personality + work values data to generate ranked career recommendations with downloadable PDF reports | Python · Flask · scikit-learn · NumPy · pandas · HTML5 · CSS3 · JavaScript · Bootstrap · FPDF · BeautifulSoup | [📂 Code](https://github.com/SyedAshraf49/Carrer-Path-Predictor-FI) · [🌐 Live](https://carrer-path-predictor-fi.onrender.com) |
-| 🗂️ | **Staff Management Dashboard** | Internal dashboard for Chennai Metro Rail Limited (200+ employees) with RBAC, optimized data retrieval, and secure authentication | Python · Flask · Flask-CORS · SQL · HTML5 · CSS3 | [📂 Code](https://github.com/Mukesh-sankaran/Reminder-dashboard-cmrl-itwing) |
+<table>
+  <thead>
+    <tr>
+      <th width="30">&nbsp;</th>
+      <th width="180">Project</th>
+      <th>Description</th>
+      <th width="220">Stack</th>
+      <th width="100">Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">🛡️</td>
+      <td><strong>Hate Shield AI</strong></td>
+      <td>Full-stack AI content moderation platform with 4-class toxicity detection, multi-label emotion analysis, and image/text support</td>
+      <td><sub>Python · Flask · Flask-CORS · scikit-learn · Joblib · Pillow · Transformers · PyTorch · HTML5 · CSS3 · JavaScript</sub></td>
+      <td align="center"><a href="https://github.com/SyedAshraf49/HateSheildAI-V3">📂 Code</a><br/><a href="https://hatesheildai-v3.onrender.com">🌐 Live</a></td>
+    </tr>
+    <tr>
+      <td align="center"><code>&gt;_</code></td>
+      <td><strong>Career Path Predictor</strong></td>
+      <td>Multi-model ML pipeline combining MBTI personality + work values data to generate ranked career recommendations with downloadable PDF reports</td>
+      <td><sub>Python · Flask · scikit-learn · NumPy · pandas · HTML5 · CSS3 · JavaScript · Bootstrap · FPDF · BeautifulSoup</sub></td>
+      <td align="center"><a href="https://github.com/SyedAshraf49/Carrer-Path-Predictor-FI">📂 Code</a><br/><a href="https://carrer-path-predictor-fi.onrender.com">🌐 Live</a></td>
+    </tr>
+    <tr>
+      <td align="center">🗂️</td>
+      <td><strong>Staff Management Dashboard</strong></td>
+      <td>Internal dashboard for Chennai Metro Rail Limited (200+ employees) with RBAC, optimized data retrieval, and secure authentication</td>
+      <td><sub>Python · Flask · Flask-CORS · SQL · HTML5 · CSS3</sub></td>
+      <td align="center"><a href="https://github.com/Mukesh-sankaran/Reminder-dashboard-cmrl-itwing">📂 Code</a></td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
