@@ -139,8 +139,7 @@
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
     </td>
     <td valign="top" width="140" align="center">
-      <img src="https://img.shields.io/badge/Jan_2026–Feb_2026-22d3ee?style=flat-square&logoColor=white" /><br/>
-      <sub>Chennai, India</sub>
+      <img src="https://img.shields.io/badge/Jan_2026--Feb_2026-22d3ee?style=flat-square&logoColor=white" />
     </td>
   </tr>
   <tr><td colspan="2"><hr/></td></tr>
@@ -164,8 +163,7 @@
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
     </td>
     <td valign="top" width="140" align="center">
-      <img src="https://img.shields.io/badge/Jun_2025–Jul_2025-22d3ee?style=flat-square&logoColor=white" /><br/>
-      <sub>Chennai, India</sub>
+      <img src="https://img.shields.io/badge/Jun_2025--Jul_2025-22d3ee?style=flat-square&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -187,8 +185,7 @@
       &nbsp;&nbsp;▸&nbsp; CGPA: <strong>8.44 / 10.0</strong>
     </td>
     <td valign="top" width="140" align="center">
-      <img src="https://img.shields.io/badge/2023–2026-22d3ee?style=flat-square&logoColor=white" /><br/>
-      <sub>Chennai, India</sub>
+      <img src="https://img.shields.io/badge/2023--2026-22d3ee?style=flat-square&logoColor=white" />
     </td>
   </tr>
 </table>
