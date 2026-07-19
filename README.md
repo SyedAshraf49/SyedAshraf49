@@ -138,7 +138,7 @@
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
     </td>
-    <td valign="top" width="140" align="center">
+    <td valign="top" width="160" align="center" style="white-space:nowrap">
       <b>Jan 2026 – Feb 2026</b>
     </td>
   </tr>
@@ -162,7 +162,7 @@
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
     </td>
-    <td valign="top" width="140" align="center">
+    <td valign="top" width="160" align="center" style="white-space:nowrap">
       <b>Jun 2025 – Jul 2025</b>
     </td>
   </tr>
@@ -184,7 +184,7 @@
       <br/><br/>
       &nbsp;&nbsp;▸&nbsp; CGPA: <strong>8.44 / 10.0</strong>
     </td>
-    <td valign="top" width="140" align="center">
+    <td valign="top" width="160" align="center" style="white-space:nowrap">
       <b>2023 – 2026</b>
     </td>
   </tr>
