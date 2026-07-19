@@ -157,13 +157,13 @@
   <tr>
     <td valign="top" width="120" align="center">
       <img src="https://img.shields.io/badge/2023–2026-22d3ee?style=flat-square&logoColor=white" /><br/>
-      <sub>Chennai, India</sub>
+      <sub>CGPA: <strong>8.44 / 10.0</strong></sub>
     </td>
     <td valign="top">
       <strong>B.Sc in Computer Science</strong><br/>
       <em>St. Thomas College of Arts and Science</em>
       <br/><br/>
-      &nbsp;&nbsp;▸&nbsp; CGPA: <strong>8.44 / 10.0</strong>
+      &nbsp;&nbsp;▸&nbsp; Chennai,India
     </td>
   </tr>
 </table>
