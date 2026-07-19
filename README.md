@@ -118,16 +118,12 @@
 
 ---
 
-## � Experience
+## 💼 Experience
 
 <div align="center">
 
 <table>
   <tr>
-    <td valign="top" width="120" align="center">
-      <img src="https://img.shields.io/badge/Jan_2026–Feb_2026-22d3ee?style=flat-square&logoColor=white" /><br/>
-      <sub>Chennai, India</sub>
-    </td>
     <td valign="top">
       <strong>Software Development Intern</strong><br/>
       <em>Chennai Metro Rail Limited &nbsp;·&nbsp; IT Wing</em>
@@ -142,6 +138,35 @@
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
     </td>
+    <td valign="top" width="140" align="center">
+      <img src="https://img.shields.io/badge/Jan_2026–Feb_2026-22d3ee?style=flat-square&logoColor=white" /><br/>
+      <sub>Chennai, India</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><hr/></td></tr>
+  <tr>
+    <td valign="top">
+      <strong>Project Lead — Machine Learning &amp; Deep Learning Intern</strong><br/>
+      <em>G-TEC Computer Education &nbsp;·&nbsp; Anna Nagar, Chennai</em>
+      <br/><br/>
+      &nbsp;&nbsp;▸&nbsp; Led the complete development of a <strong>Career Path Prediction System</strong> using ML models to guide students and professionals in career decisions<br/>
+      &nbsp;&nbsp;▸&nbsp; Managed four teams: Frontend, Data Collection &amp; Preprocessing, Backend, and Testing &amp; Debugging<br/>
+      &nbsp;&nbsp;▸&nbsp; Built a predictive model using <strong>Random Forest</strong> and advanced ML models, achieving optimal accuracy through iterative fine-tuning<br/>
+      &nbsp;&nbsp;▸&nbsp; Applied regression and classification algorithms to solve real-world problems using Python<br/>
+      &nbsp;&nbsp;▸&nbsp; Conducted daily team meetings to ensure productivity and continuous project improvement
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Joblib-gray?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    </td>
+    <td valign="top" width="140" align="center">
+      <img src="https://img.shields.io/badge/Jun_2025–Jul_2025-22d3ee?style=flat-square&logoColor=white" /><br/>
+      <sub>Chennai, India</sub>
+    </td>
   </tr>
 </table>
 
@@ -155,15 +180,15 @@
 
 <table>
   <tr>
-    <td valign="top" width="120" align="center">
-      <img src="https://img.shields.io/badge/2023–2026-22d3ee?style=flat-square&logoColor=white" /><br/>
-      <sub>CGPA: <strong>8.44 / 10.0</strong></sub>
-    </td>
     <td valign="top">
       <strong>B.Sc in Computer Science</strong><br/>
-      <em>St. Thomas College of Arts and Science</em>
+      <em>St. Thomas College of Arts and Science, Chennai</em>
       <br/><br/>
-      &nbsp;&nbsp;▸&nbsp; Chennai,India
+      &nbsp;&nbsp;▸&nbsp; CGPA: <strong>8.44 / 10.0</strong>
+    </td>
+    <td valign="top" width="140" align="center">
+      <img src="https://img.shields.io/badge/2023–2026-22d3ee?style=flat-square&logoColor=white" /><br/>
+      <sub>Chennai, India</sub>
     </td>
   </tr>
 </table>
